@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="styles/stylesAdmin.css">
+      <title>Document</title>
+   </head>
+   <body>
+      <header id="top-menu">
+         <div class="logo">Cadastro de Carrinhos</div>
+         <nav>
+            <ul>
+               <li><a href="acessoAdmin.html">Dashboard</a></li>
+               <li>
+                  <a href="#">Cadastros</a>
+                  <ul class="submenu">
+                     <li><a href="carrinhosCad.html">Carrinhos Cadastrados</a></li>
+                     <li><a href="usuarios.html">Usuários Cadastrados</a></li>
+                     <li><a href="sorteios.html">Sorteios Realizados</a></li>
+                     <li><a href="sorteioParticipante.html">Participantes dos Sorteios</a></li>
+                  </ul>
+               </li>
+               <li><a href="#">Relatórios</a></li>
+            </ul>
+         </nav>
+      </header>
+      <div id="container">
+         <div id="form-area">
+            <div id="form-group">
+               <input type="text" name="" id="id-carrinho" placeholder="Id Carrinho" required>
+               <div id="buttons">
+                  <button id="btn-salvar" onclick="salvarCarrinho()">Salvar</button>
+                  <button id="btn-cancelar" onclick="limparFormulario()">Cancelar</button>
+               </div>
+            </div>
+         </div>
+         <div id="table-area">
+            <table id="tabela-carrinhos">
+               <thead>
+                  <tr>
+                     <th>Id</th>
+                     <th>Id Carrinho</th>
+                     <th>Data de Registro</th>
+                     <th>Status</th>
+                  </tr>
+               </thead>
+               <tbody>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <script src="script/cadastroCarrinhos.js"></script>
+   </body>
+</html>
