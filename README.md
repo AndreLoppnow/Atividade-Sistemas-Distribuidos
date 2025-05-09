@@ -16,6 +16,8 @@ A atividade se econtra entregue ao professor. Porém o processo ao todo não foi
             <th style="text-aling: center;">HMTL</th>
             <th style="text-aling: center;">CSS</th>
             <th style="text-aling: center;">JavaScript</th>
+            <th style="text-aling: center;">Flask</th>
+            <th style="text-aling: center;">Supabase</th>
             <th style="text-aling: center;">Python</th>
         </tr>
         <tr aling="center">
@@ -27,6 +29,12 @@ A atividade se econtra entregue ao professor. Porém o processo ao todo não foi
             </td>
             <td>
                 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Java Script">
+            </td>
+            <td>
+                <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="HMTL">
+            </td>
+            <td>
+                <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Supabase">
             </td>
             <td>
                 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
