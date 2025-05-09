@@ -1,5 +1,13 @@
 ## ✅ Objetivo
-Desenvolver a prototipação e solução para a dor "carrinhos de compras perdidos pelo estacionamento" com os conhecimentos obtidos nas aulas de Sistemas Distribuídos. Para mais informações sobre a proposta conferir o arquivo "".
+Desenvolver a prototipação e solução para a dor "carrinhos de compras perdidos pelo estacionamento" com os conhecimentos obtidos nas aulas de Sistemas Distribuídos. Para mais informações sobre a proposta conferir o arquivo "Proposta de Atividade".
+Para obter detalhes do processo e a solução da "Proposta de Atividade" conferir o arquivo "Estruturação do Processo de Retirada e Devolução de Carrinhos" onde detalha um pouco sobre como os sistemas interage com o ambiente. 
+
+## 📊 Status
+A atividade se econtra entregue ao professor. Porém o processo ao todo não foi desenvolvido, pois a ideia era prototipar uma solução para o projeto não era necessário desenvolver. 
+
+![Static Badge](https://img.shields.io/badge/PROTOTIPA%C3%87%C3%83O_DO_PROJETO-CONCLU%C3%8DDO-YELLOW)
+
+![Static Badge](https://img.shields.io/badge/STATUS_DO_PROJETO-EM_DESENVOLVIMENTO-YELLOW?color=yellow)
 
 ## 👨‍💻 Tecnologias Usadas
 <div align="center" text-aling="center">
